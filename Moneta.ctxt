@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Moneta
+comment1.params=
+comment1.target=Moneta()
+comment2.params=gioca1\ gioca2
+comment2.target=void\ lancioSingolo(java.lang.String,\ java.lang.String)
+comment3.params=nl
+comment3.target=void\ lancioMultiplo(int)
+numComments=4

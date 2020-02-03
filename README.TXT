@@ -4,9 +4,9 @@ Chi legge questo file, pur non sapendo nulla del progetto, dovrebbe ottenere tut
 le informazioni di cui ha bisogno. Probabilmente le informazioni essenziali sono:
 ----------------------------------------------------------------------------------
 
-NOME DEL PROGETTO:
-OBIETTIVO DEL PROGETTO
+NOME DEL PROGETTO: Gestione Libreria
+OBIETTIVO DEL PROGETTO: Simulare un ristorante
 VERSIONE oppure DATA:
-COME AVVIARE IL PROGETTO:
-AUTORI:
+COME AVVIARE IL PROGETTO:aprendi il file madre
+AUTORI:Giuseppe R.
 ISTRUZIONI PER L'UTENTE:
